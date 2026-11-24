@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paseo Plan Build Review"
+  short_description: "Paseo planning, fast development and independent review"
+  default_prompt: "Use $paseo-plan-build-review to plan this change, implement it in Fast mode, and independently review each unit."
